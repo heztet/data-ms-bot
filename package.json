@@ -1,0 +1,15 @@
+{
+  "name": "ms-bot-frame-test",
+  "version": "1.0.0",
+  "description": "my first ms chat bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicky Marino",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.8.3",
+    "restify": "^4.3.0"
+  }
+}
